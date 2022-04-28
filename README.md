@@ -1,12 +1,16 @@
 # 안녕하세요👋
 
 
-신입 1년차 백엔드 개발자 입니다. 😄
+- 신입 1년차 백엔드 개발자 입니다. 😄
 
-1 Day 1 Commit 이상을 목표로 하고 있습니다.🔭
-현재 SpiLAB 회사에서 재직중입니다.
+- 1 Day 1 Commit 이상을 목표로 하고 있습니다.🔭
+
+- 현재 [SPILAB](http://spilab.kr/) 회사에서 재직중입니다.
+
+<br>
+
+## 경험
 <ol>
-    경험
     
     -   node.js --> API -- HTML연동 경험
 
@@ -20,6 +24,19 @@
 
     -   docker 기본적인 생성 및 API제작 경험 
 <ul>
+    
+    
+<br>
+
+## 📧 Email 
+- Email | <a href="mailto:gks6141@hanmail.net" target="_blank">gks6141@hanmail.net</a>
+
+<br>
+
+## 🏦 Company
++ 스피랩(http://spilab.kr/) (2021.4 ~ 재직중)
+
+    
 <!--
 **gks6141/gks6141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
