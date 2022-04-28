@@ -22,7 +22,7 @@
 
     -   AI모델 경험
 
-    -   docker 기본적인 생성 및 API제작 경험 
+    -   docker 생성 및 API제작 경험 
 <ul>
     
     
