@@ -23,6 +23,10 @@
     -   AI모델 경험
 
     -   docker 생성 및 API제작 경험 
+    
+    -   kafka consumer를 이용하여 DB전송
+    
+    -   React를 이용하여 대시보드 제작중
 <ul>
     
     
