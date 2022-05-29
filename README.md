@@ -25,8 +25,12 @@
     -   docker 생성 및 API제작 경험 
     
     -   kafka consumer를 이용하여 DB전송
+ 
+    -   ELK를 이용한 대시보드 구현
     
-    -   React를 이용하여 대시보드 제작중
+    -   React를 이용하여 대시보드 구현
+    
+    -   blockchain oracle 개념 습득, solidity와 web3.js를 이용한 smart contract 구현 
 <ul>
     
     
