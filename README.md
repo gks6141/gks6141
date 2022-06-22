@@ -10,7 +10,7 @@
 
 ## 경험
 <ol>
-    -  JAVA 언어로 API 구현 경험 예정
+    -   JAVA 언어로 API 구현 경험 예정
     
     -   node.js --> API -- HTML연동 경험
 
@@ -26,9 +26,11 @@
     
     -   kafka consumer를 이용하여 DB전송
  
-    -   ELK를 이용한 대시보드 구현
+    -   ELK를 이용한 대시보드 구현 경험
     
-    -   React를 이용하여 대시보드 구현
+    -   EJS를 통해 API와 대시보드 연동 구현 경험
+    
+    -   React를 이용하여 대시보드 구현 경험
     
     -   blockchain oracle 개념 습득, solidity와 web3.js를 이용한 smart contract 구현 
 <ul>
