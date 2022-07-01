@@ -14,7 +14,8 @@
     -   JAVA 언어로 API 구현 경험 예정
     
     -   node.js --> API -- HTML연동 경험
-
+    -   flask, django  --> API 및 앱  구현 
+    
     -   NoSQL: MongoDB 사용 경험
 
     -   클라우드 서버: AWS 경험 , 서버 제작 경험(GITLAB 및 원격 접속 서비스)
