@@ -14,6 +14,7 @@
     -   JAVA 언어로 API 구현 경험 예정
     
     -   node.js --> API -- HTML연동 경험
+    
     -   flask, django  --> API 및 앱  구현 
     
     -   NoSQL: MongoDB 사용 경험
