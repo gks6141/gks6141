@@ -1,10 +1,9 @@
 # 안녕하세요👋
 
-- 신입 1년차 백엔드 개발자 입니다. 😄
+- 신입 1년차 웹 개발자 입니다. 😄
 
 - 1 Day 1 Commit 이상을 목표로 하고 있습니다.🔭
 
-- 현재 [SPILAB](http://spilab.kr/) 회사에서 재직중입니다.
 
 <br>
 
@@ -42,12 +41,12 @@
 <br>
 
 ## 📧 Email 
-- Email | <a href="mailto:gks6141@hanmail.net" target="_blank">gks6141@hanmail.net</a>
+- Email | <a href="mailto:dkfl9134@naver.com" target="_blank">dkfl9134@naver.com</a>
 
 <br>
 
 ## 🏦 Company
-+ 스피랩(http://spilab.kr/) (2021.4 ~ 재직중)
++ 스피랩(http://spilab.kr/) (2021.4 ~ 2022.9.22)
 
     
 <!--
