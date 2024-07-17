@@ -1,9 +1,8 @@
 # 안녕하세요👋
 
-- 1년차 웹 개발자 경험
+- 1년 웹 개발자 경험
 - Devops 및 Back-end 개발자를 목표 😄
 
-- 1 Day 1 Commit 이상을 목표로 하고 있습니다.🔭
 
 
 <br>
@@ -26,8 +25,6 @@
     -   AI모델 경험
 
     -   docker 생성 및 API제작 경험 
-    
-    -   kafka consumer를 이용하여 DB전송
  
     -   ELK를 이용한 대시보드 구현 경험
     
